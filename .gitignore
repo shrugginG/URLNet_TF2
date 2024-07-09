@@ -1,4 +1,4 @@
-data/
-runs/
+data/dataset/
+data/result/
 .vscode/
 __pycache__/
